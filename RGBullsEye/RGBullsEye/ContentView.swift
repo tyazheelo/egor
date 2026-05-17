@@ -2,9 +2,6 @@
 //  ContentView.swift
 //  RGBullsEye
 //
-//  Author: [Твоё Имя Фамилия]
-//  Group: [Твоя Группа]
-//
 //  MARK: - RGBullsEye Game
 //  Goal: Match the target color using RGB sliders
 //  Concepts: @State, @Binding, VStack, HStack, Slider, Alert
