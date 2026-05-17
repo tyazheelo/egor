@@ -1,0 +1,67 @@
+// MARK: - App Title
+"app_title" = "Калькулятар цела";
+"volume_title" = "Калькулятар аб'ёму (Варыянт 7)";
+
+// MARK: - Placeholders
+"age_placeholder" = "Узрост (гадоў)";
+"height_placeholder" = "Рост (см)";
+"weight_placeholder" = "Вага (кг)";
+"radius_placeholder" = "Радыус (м)";
+"height_placeholder_volume" = "Вышыня (м)";
+
+// MARK: - Segmented Controls
+"male" = "Мужчынскі";
+"female" = "Жаночы";
+
+"sedentary" = "Мінімальны";
+"light" = "Лёгкі";
+"moderate" = "Умераны";
+"very_active" = "Высокі";
+"extra_active" = "Экстрэмальны";
+
+"cylinder" = "Цыліндр";
+"cone" = "Конус";
+
+// MARK: - Buttons
+"calculate_button" = "Разлічыць";
+"clear_button" = "Ачысціць";
+"done" = "Гатова";
+
+// MARK: - Results Default
+"bmi_default" = "ІМТ: -";
+"bmr_default" = "BMR: -";
+"calories_default" = "Каларыі: -";
+"volume_default" = "Аб'ём: -";
+
+// MARK: - BMI Categories
+"bmi_severe_thinness" = "Выяўлены дэфіцыт масы";
+"bmi_moderate_thinness" = "Умераны дэфіцыт масы";
+"bmi_mild_thinness" = "Лёгкі дэфіцыт масы";
+"bmi_normal" = "Норма";
+"bmi_overweight" = "Лішняя маса";
+"bmi_obese_class1" = "Атлусценне I ступені";
+"bmi_obese_class2" = "Атлусценне II ступені";
+"bmi_obese_class3" = "Атлусценне III ступені";
+
+// MARK: - Result Formats
+"bmi_format" = "ІМТ: %.1f (%@)";
+"bmr_format" = "BMR: %.0f ккал/дзень";
+"calories_format" = "Дзённая норма: %.0f ккал";
+"volume_format" = "Аб'ём (%@): %.3f м³";
+
+// MARK: - Error Messages
+"bmi_error" = "ІМТ: Памылка ўводу";
+"bmr_error" = "BMR: Памылка ўводу";
+"calories_error" = "Каларыі: Памылка ўводу";
+"volume_error" = "Аб'ём: Памылка ўводу";
+"bmi_error_age" = "ІМТ: Няправільны ўзрост (1-119)";
+"bmi_error_height" = "ІМТ: Няправільны рост (1-299 см)";
+"bmi_error_weight" = "ІМТ: Няправільная вага (1-499 кг)";
+"volume_error_radius" = "Аб'ём: Радыус павінен быць > 0";
+"volume_error_height" = "Аб'ём: Вышыня павінна быць > 0";/* 
+  be.strings
+  BodyCalculator
+
+  Created by Карина Сахарук on 17.05.26.
+  
+*/

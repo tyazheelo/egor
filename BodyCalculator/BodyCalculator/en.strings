@@ -1,0 +1,61 @@
+// MARK: - App Title
+"app_title" = "Body Calculator";
+"volume_title" = "Volume Calculator (Variant 7)";
+
+// MARK: - Placeholders
+"age_placeholder" = "Age (years)";
+"height_placeholder" = "Height (cm)";
+"weight_placeholder" = "Weight (kg)";
+"radius_placeholder" = "Radius (m)";
+"height_placeholder_volume" = "Height (m)";
+
+// MARK: - Segmented Controls
+"male" = "Male";
+"female" = "Female";
+
+"sedentary" = "Sedentary";
+"light" = "Light";
+"moderate" = "Moderate";
+"very_active" = "Very Active";
+"extra_active" = "Extra Active";
+
+"cylinder" = "Cylinder";
+"cone" = "Cone";
+
+// MARK: - Buttons
+"calculate_button" = "Calculate";
+"clear_button" = "Clear";
+"done" = "Done";
+
+// MARK: - Results Default
+"bmi_default" = "BMI: -";
+"bmr_default" = "BMR: -";
+"calories_default" = "Calories: -";
+"volume_default" = "Volume: -";
+
+// MARK: - BMI Categories
+"bmi_severe_thinness" = "Severe Thinness";
+"bmi_moderate_thinness" = "Moderate Thinness";
+"bmi_mild_thinness" = "Mild Thinness";
+"bmi_normal" = "Normal";
+"bmi_overweight" = "Overweight";
+"bmi_obese_class1" = "Obese Class I";
+"bmi_obese_class2" = "Obese Class II";
+"bmi_obese_class3" = "Obese Class III";
+
+// MARK: - Result Formats
+"bmi_format" = "BMI: %.1f (%@)";
+"bmr_format" = "BMR: %.0f kcal/day";
+"calories_format" = "Daily calories: %.0f kcal";
+"volume_format" = "Volume (%@): %.3f m³";
+
+// MARK: - Error Messages
+"bmi_error" = "BMI: Invalid input";
+"bmr_error" = "BMR: Invalid input";
+"calories_error" = "Calories: Invalid input";
+"volume_error" = "Volume: Invalid input";
+"bmi_error_age" = "BMI: Invalid age (1-119)";
+"bmi_error_height" = "BMI: Invalid height (1-299 cm)";
+"bmi_error_weight" = "BMI: Invalid weight (1-499 kg)";
+"volume_error_radius" = "Volume: Radius must be > 0";
+"volume_error_height" = "Volume: Height must be > 0";

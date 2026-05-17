@@ -1,0 +1,61 @@
+// MARK: - App Title
+"app_title" = "Калькулятор тела";
+"volume_title" = "Калькулятор объёма (Вариант 7)";
+
+// MARK: - Placeholders
+"age_placeholder" = "Возраст (лет)";
+"height_placeholder" = "Рост (см)";
+"weight_placeholder" = "Вес (кг)";
+"radius_placeholder" = "Радиус (м)";
+"height_placeholder_volume" = "Высота (м)";
+
+// MARK: - Segmented Controls
+"male" = "Мужской";
+"female" = "Женский";
+
+"sedentary" = "Минимальный";
+"light" = "Лёгкий";
+"moderate" = "Умеренный";
+"very_active" = "Высокий";
+"extra_active" = "Экстремальный";
+
+"cylinder" = "Цилиндр";
+"cone" = "Конус";
+
+// MARK: - Buttons
+"calculate_button" = "Рассчитать";
+"clear_button" = "Очистить";
+"done" = "Готово";
+
+// MARK: - Results Default
+"bmi_default" = "ИМТ: -";
+"bmr_default" = "BMR: -";
+"calories_default" = "Калории: -";
+"volume_default" = "Объём: -";
+
+// MARK: - BMI Categories
+"bmi_severe_thinness" = "Выраженный дефицит массы";
+"bmi_moderate_thinness" = "Умеренный дефицит массы";
+"bmi_mild_thinness" = "Лёгкий дефицит массы";
+"bmi_normal" = "Норма";
+"bmi_overweight" = "Избыточная масса";
+"bmi_obese_class1" = "Ожирение I степени";
+"bmi_obese_class2" = "Ожирение II степени";
+"bmi_obese_class3" = "Ожирение III степени";
+
+// MARK: - Result Formats
+"bmi_format" = "ИМТ: %.1f (%@)";
+"bmr_format" = "BMR: %.0f ккал/день";
+"calories_format" = "Дневная норма: %.0f ккал";
+"volume_format" = "Объём (%@): %.3f м³";
+
+// MARK: - Error Messages
+"bmi_error" = "ИМТ: Ошибка ввода";
+"bmr_error" = "BMR: Ошибка ввода";
+"calories_error" = "Калории: Ошибка ввода";
+"volume_error" = "Объём: Ошибка ввода";
+"bmi_error_age" = "ИМТ: Неверный возраст (1-119)";
+"bmi_error_height" = "ИМТ: Неверный рост (1-299 см)";
+"bmi_error_weight" = "ИМТ: Неверный вес (1-499 кг)";
+"volume_error_radius" = "Объём: Радиус должен быть > 0";
+"volume_error_height" = "Объём: Высота должна быть > 0";
