@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  VolumeCalculator
 //
-//  Author: [Твоё Имя Фамилия]
-//  Group: [Твоя Группа]
 //
 //  MARK: - Task 5: Two-Scene App with Localization & AutoLayout
 //  Variant 7: Cylinder & Cone Volume Calculator
