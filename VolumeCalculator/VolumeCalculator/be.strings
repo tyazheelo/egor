@@ -1,0 +1,27 @@
+"app_name" = "Калькулятар аб'ёму";
+"main_title" = "Калькулятар аб'ёму";
+"radius_placeholder" = "Радыус (м)";
+"height_placeholder" = "Вышыня (м)";
+"cylinder" = "Цыліндр";
+"cone" = "Конус";
+"calculate_button" = "Разлічыць";
+"clear_button" = "Ачысціць";
+"done" = "Гатова";
+
+"result_shape_cylinder" = "Форма: Цыліндр";
+"result_shape_cone" = "Форма: Конус";
+"result_parameters" = "Параметры: R = %.2f м, H = %.2f м";
+"result_volume_title" = "Аб'ём:";
+"result_share" = "Падзяліцца";
+"back_button" = "← Назад";
+
+"error_title" = "Памылка ўводу";
+"error_empty_radius" = "Увядзіце радыус";
+"error_empty_height" = "Увядзіце вышыню";
+"error_invalid_radius" = "Радыус павінен быць лікам";
+"error_invalid_height" = "Вышыня павінна быць лікам";
+"error_radius_positive" = "Радыус павінен быць > 0";
+"error_height_positive" = "Вышыня павінна быць > 0";
+"ok" = "ОК";
+
+"share_text" = "📐 %@\nРадыус: %.2f м\nВышыня: %.2f м\nАб'ём: %.3f м³";

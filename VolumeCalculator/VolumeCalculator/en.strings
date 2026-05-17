@@ -1,0 +1,27 @@
+"app_name" = "Volume Calculator";
+"main_title" = "Volume Calculator";
+"radius_placeholder" = "Radius (m)";
+"height_placeholder" = "Height (m)";
+"cylinder" = "Cylinder";
+"cone" = "Cone";
+"calculate_button" = "Calculate";
+"clear_button" = "Clear";
+"done" = "Done";
+
+"result_shape_cylinder" = "Shape: Cylinder";
+"result_shape_cone" = "Shape: Cone";
+"result_parameters" = "Parameters: R = %.2f m, H = %.2f m";
+"result_volume_title" = "Volume:";
+"result_share" = "Share";
+"back_button" = "← Back";
+
+"error_title" = "Input Error";
+"error_empty_radius" = "Enter radius";
+"error_empty_height" = "Enter height";
+"error_invalid_radius" = "Radius must be a number";
+"error_invalid_height" = "Height must be a number";
+"error_radius_positive" = "Radius must be > 0";
+"error_height_positive" = "Height must be > 0";
+"ok" = "OK";
+
+"share_text" = "📐 %@\nRadius: %.2f m\nHeight: %.2f m\nVolume: %.3f m³";

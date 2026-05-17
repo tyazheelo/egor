@@ -1,0 +1,27 @@
+"app_name" = "Калькулятор объёма";
+"main_title" = "Калькулятор объёма";
+"radius_placeholder" = "Радиус (м)";
+"height_placeholder" = "Высота (м)";
+"cylinder" = "Цилиндр";
+"cone" = "Конус";
+"calculate_button" = "Рассчитать";
+"clear_button" = "Очистить";
+"done" = "Готово";
+
+"result_shape_cylinder" = "Форма: Цилиндр";
+"result_shape_cone" = "Форма: Конус";
+"result_parameters" = "Параметры: R = %.2f м, H = %.2f м";
+"result_volume_title" = "Объём:";
+"result_share" = "Поделиться";
+"back_button" = "← Назад";
+
+"error_title" = "Ошибка ввода";
+"error_empty_radius" = "Введите радиус";
+"error_empty_height" = "Введите высоту";
+"error_invalid_radius" = "Радиус должен быть числом";
+"error_invalid_height" = "Высота должна быть числом";
+"error_radius_positive" = "Радиус должен быть > 0";
+"error_height_positive" = "Высота должна быть > 0";
+"ok" = "ОК";
+
+"share_text" = "📐 %@\nРадиус: %.2f м\nВысота: %.2f м\nОбъём: %.3f м³";
