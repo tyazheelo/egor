@@ -2,8 +2,6 @@
 //  SceneDelegate.m
 //  CityWeatherLibrary
 //
-//  Created by Карина Сахарук on 17.05.26.
-//
 
 #import "SceneDelegate.h"
 
